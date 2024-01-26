@@ -4,7 +4,12 @@
         "gender": "male",
         "parents": [],
         "siblings": [],
-        "spouses": [],
+        "spouses": [
+            {
+                "id": "2",
+                "type": "married"
+            }
+        ],
         "children": [
             {
                 "id": "3",
@@ -17,7 +22,12 @@
         "gender": "male",
         "parents": [],
         "siblings": [],
-        "spouses": [],
+        "spouses": [
+            {
+                "id": "1",
+                "type": "married"
+            }
+        ],
         "children": [
             {
                 "id": "3",
