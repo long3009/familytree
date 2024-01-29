@@ -4,60 +4,39 @@
         "gender": "male",
         "parents": [],
         "siblings": [],
-        "spouses": [],
-        "children": [
+        "spouses": [
             {
-                "id": "3",
-                "type": "blood"
+                "id": "2",
+                "type": "married"
             }
-        ]
+        ],
+        "children": [],
+        "info": {
+            "name": "test",
+            "birth": "28/01/2024",
+            "death": "28/01/2054",
+            "note": "",
+            "avatar": "https://github.com/long3009/familytree/blob/0ff9f33f3d5ae8afaa6327df3b96846ff7e9eafa/man-avatar.png?raw=true"
+        }
     },
     {
         "id": "2",
-        "gender": "male",
+        "gender": "female",
         "parents": [],
         "siblings": [],
-        "spouses": [],
-        "children": [
-            {
-                "id": "3",
-                "type": "blood"
-            }
-        ]
-    },
-    {
-        "id": "3",
-        "gender": "male",
-        "parents": [
+        "spouses": [
             {
                 "id": "1",
-                "type": "blood"
-            },
-            {
-                "id": "2",
-                "type": "blood"
-            }
-        ],
-        "siblings": [],
-        "spouses": [
-            {
-                "id": "4",
                 "type": "married"
             }
         ],
-        "children": []
-    },
-    {
-        "id": "4",
-        "gender": "male",
-        "parents": [],
-        "siblings": [],
-        "spouses": [
-            {
-                "id": "3",
-                "type": "married"
-            }
-        ],
-        "children": []
+        "children": [],
+        "info": {
+            "name": "test3",
+            "birth": "01/01/2024",
+            "death": "01/01/2024",
+            "note": "",
+            "avatar": "https://github.com/long3009/familytree/blob/main/woman-avatar.png?raw=true"
+        }
     }
 ]
