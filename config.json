@@ -10,11 +10,16 @@
                 "type": "married"
             }
         ],
-        "children": [],
+        "children": [
+            {
+                "id": "21",
+                "type": "blood"
+            }
+        ],
         "info": {
             "name": "test",
             "birth": "28/01/2024",
-            "death": "28/01/2054",
+            "death": "28/01/2024",
             "note": "",
             "avatar": "https://github.com/long3009/familytree/blob/0ff9f33f3d5ae8afaa6327df3b96846ff7e9eafa/man-avatar.png?raw=true"
         }
@@ -30,13 +35,42 @@
                 "type": "married"
             }
         ],
-        "children": [],
+        "children": [
+            {
+                "id": "21",
+                "type": "blood"
+            }
+        ],
         "info": {
-            "name": "test3",
+            "name": "test2",
             "birth": "01/01/2024",
             "death": "01/01/2024",
             "note": "",
             "avatar": "https://github.com/long3009/familytree/blob/main/woman-avatar.png?raw=true"
+        }
+    },
+    {
+        "id": "21",
+        "gender": "male",
+        "parents": [
+            {
+                "id": "1",
+                "type": "blood"
+            },
+            {
+                "id": "2",
+                "type": "blood"
+            }
+        ],
+        "siblings": [],
+        "spouses": [],
+        "children": [],
+        "info": {
+            "name": "test3",
+            "birth": "30/01/2024",
+            "death": "30/01/2024",
+            "note": "",
+            "avatar": "https://github.com/long3009/familytree/blob/0ff9f33f3d5ae8afaa6327df3b96846ff7e9eafa/man-avatar.png?raw=true"
         }
     }
 ]
