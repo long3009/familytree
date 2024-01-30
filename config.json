@@ -18,8 +18,8 @@
         ],
         "info": {
             "name": "test",
-            "birth": "28/01/2024",
-            "death": "28/01/2024",
+            "birth": "28/01/1990",
+            "death": "",
             "note": "",
             "avatar": "https://github.com/long3009/familytree/blob/0ff9f33f3d5ae8afaa6327df3b96846ff7e9eafa/man-avatar.png?raw=true"
         }
@@ -43,8 +43,8 @@
         ],
         "info": {
             "name": "test2",
-            "birth": "01/01/2024",
-            "death": "01/01/2024",
+            "birth": "01/01/1992",
+            "death": "",
             "note": "",
             "avatar": "https://github.com/long3009/familytree/blob/main/woman-avatar.png?raw=true"
         }
@@ -67,8 +67,8 @@
         "children": [],
         "info": {
             "name": "test3",
-            "birth": "30/01/2024",
-            "death": "30/01/2024",
+            "birth": "30/01/2010",
+            "death": "",
             "note": "",
             "avatar": "https://github.com/long3009/familytree/blob/0ff9f33f3d5ae8afaa6327df3b96846ff7e9eafa/man-avatar.png?raw=true"
         }
