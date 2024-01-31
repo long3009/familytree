@@ -12,7 +12,7 @@
         ],
         "children": [
             {
-                "id": "21",
+                "id": "3",
                 "type": "blood"
             }
         ],
@@ -37,7 +37,7 @@
         ],
         "children": [
             {
-                "id": "21",
+                "id": "3",
                 "type": "blood"
             }
         ],
@@ -50,7 +50,7 @@
         }
     },
     {
-        "id": "21",
+        "id": "3",
         "gender": "male",
         "parents": [
             {
