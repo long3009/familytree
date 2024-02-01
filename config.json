@@ -2,6 +2,8 @@
     {
         "id": "1",
         "gender": "male",
+         "parents": [],
+        "siblings": [],
         "spouses": [
             {
                 "id": "2",
